@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a variety fintech products 
+- 🌱 I’m currently learning security on kubernetes
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about kubernetes and coffee
+
 <!--
 **damukuzi/damukuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
